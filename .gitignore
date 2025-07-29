@@ -1,3 +1,6 @@
 data/creditcard.csv
 data/premium.csv
 data/Dubizzle_used_car_sales.csv
+data/santander-customer-satisfaction/sample_submission.csv
+data/santander-customer-satisfaction/test.csv
+data/santander-customer-satisfaction/train.csv
