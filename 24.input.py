@@ -16,7 +16,7 @@ st.header('같은 버튼 여러개 만들기')
 for i in range(5):  
     st.button('actibvte2', type='primary',key = i)
     
-#######################################################
+######################################################
 
 st.title('Title')
 st.header('header')
