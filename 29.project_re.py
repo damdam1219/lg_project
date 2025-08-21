@@ -55,11 +55,13 @@ def login():
 
 # 사용자 대시보드----------------------------------------------
 def my_dashboard():
+def chat_bot():
 def hospital():
 def content():
 def logout():
 def user_dashboard():
     my_dashboard()
+    chat_bot()
     hospital()
     content()
     logout()
