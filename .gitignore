@@ -50,15 +50,7 @@ __pycache__/
 /product_images/
 
 # 기타
-.DS_Store
-mini_project/webtoon_thumbnails/밥 먹고 갈래요.jpg
-mini_project/webtoon_thumbnails/연우의 순정.jpg
-mini_project/webtoon_thumbnails/위탁가족!.jpg
-mini_project/webtoon_thumbnails/청소하러 왔어요.jpg
-mini_project/webtoon_thumbnails/추억이 찾아오는 가게.jpg
 lg7pilot/
 LG_U.code-workspace
 prompting/.env
-ppp.py
-unuser.py
-chat_model.py
+data
