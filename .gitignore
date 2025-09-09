@@ -53,4 +53,5 @@ __pycache__/
 lg7pilot/
 LG_U.code-workspace
 prompting/.env
+prompting/chroma
 data
