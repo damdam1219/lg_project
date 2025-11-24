@@ -4,26 +4,6 @@ data/Dubizzle_used_car_sales.csv
 data/santander-customer-satisfaction/sample_submission.csv
 data/santander-customer-satisfaction/test.csv
 data/santander-customer-satisfaction/train.csv
-mini_project/images/F1 더 무비.png
-mini_project/images/강령 귀신놀이.png
-mini_project/images/고고다이노 극장판 게코도마뱀의 꿈.png
-mini_project/images/극장판 도라에몽 진구의 그림이야기.png
-mini_project/images/꼬마마법사 주니토니.png
-mini_project/images/노이즈.png
-mini_project/images/명탐정 코난 척안의 잔상.png
-mini_project/images/미세리코르디아.png
-mini_project/images/발레리나.png
-mini_project/images/배드 가이즈 2.png
-mini_project/images/베베핀 극장판 사라진 베베핀과 핑크퐁 대모험.png
-mini_project/images/슈퍼맨.png
-mini_project/images/악마가 이사왔다.png
-mini_project/images/전지적 독자 시점.png
-mini_project/images/좀비딸.png
-mini_project/images/쥬라기 월드 새로운 시작.png
-mini_project/images/추적.png
-mini_project/images/콘스탄틴.png
-mini_project/images/킹 오브 킹스.png
-mini_project/images/판타스틱 4 새로운 출발.png
 streamlit_env/
 
 
@@ -55,3 +35,5 @@ LG_U.code-workspace
 prompting/.env
 prompting/chroma
 data
+prompting/chroma_db/chroma.sqlite3
+prompting/chroma_wine/chroma.sqlite3
